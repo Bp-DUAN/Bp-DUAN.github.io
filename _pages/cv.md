@@ -9,37 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Educational Background
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+●  2009. 9 - 2013. 7: M. Sci. in Applied Mathematics, School of Mathematics and Statistics, Central South University, Changsha, P.R. China;
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+●  2013. 9 - 2019. 7: Ph. D in Computational Mathematics, successive master-doctor program, School of Mathematics and Statistics, Central South University, Changsha, P.R. China;
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+●  2016. 9 - 2018. 7: Visiting student, Department of Mathematics, Texas A & M University, Texas, USA.
+
+
+## Working Experience
+
+●  2019. 9 - 2021.8: Postdoc in Beijing Computational Science Research Center, Beijing & Shenzhen JL Computational Science and Applied Research Institute, Shenzhen. Supervisor: Prof. ZHANG Zhimin;
+
+●  2021. 9 - now: Assistant, MSU-BIT-SMBU Joint Research Center of Computational Mathematics, Shenzhen MSU-BIT University.
+
+
+
+## Research Interests
+
+●  Approximation theory, Computational geometric flows, Numerical methods for PDEs including fractional PDEs.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
