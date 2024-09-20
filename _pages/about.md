@@ -7,13 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Assistant 
-● Shenzhen MSU-BIT University, 1 International University Park Road, Longgang District, 518172 Shenzhen, Guangdong Province, P.R. China.
-
-●  Office: Room 333, Main Building.
-
-●  Email: duanbeiping@hotmail.com
-
 ## Educational Background
 
 ●  2009. 9 - 2013. 7: M. Sci. in Applied Mathematics, School of Mathematics and Statistics, Central South University, Changsha, P.R. China;
