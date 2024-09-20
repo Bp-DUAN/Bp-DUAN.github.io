@@ -10,7 +10,7 @@
 locale                   : "cnn-China"
 title                    : "Beiping DUAN /Personal Homepage"
 title_separator          : "-"
-name                     : &name "Beiping Duan(段北平)"
+name                     : &name "Beiping Duan"
 description              : &description "Assistant Professor"
 url                      : https://bp-duan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : "Bp-DUAN/Bp-DUAN.github.io"
 author:
   # Biographic information
   avatar           : "My_Photo.png"
-  name             : "Beiping Duan"
+  name             : "Beiping Duan(段北平)"
 #  pronouns         : "Dr. "  
 #  bio              : "Assistant at Shenzhen-MSU-BIT University"
-  location         : "Shenzhen"
+  location         : "Shenzhen, China"
   employer         : "Shenzhen MSU-BIT Univerisity"
 #  uri              : # URL
   email            : "duanbeiping@hotmail.com" 
