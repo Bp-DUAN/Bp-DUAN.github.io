@@ -52,7 +52,7 @@ redirect_from:
 
 [10] Duan Beiping, Li Buyang*. [New artificial tangential motions for parametric finite element approximation of surface evolution.](https://doi.org/10.1137/23M1551857) **SIAM Journal on Scientific Computing**, 46(1): A587-A608(2024).
 
-[11] Liu Guidong, Liu Wenjie, Duan Beiping*. [Estimates for coefficients in Jacobi series for functions with limited regularity by fractional calculus.](https://doi.org/10.1007/s10444-024-10159-y) Advances in Computational Mathematics 50, 68 (2024). 
+[11] Liu Guidong, Liu Wenjie, Duan Beiping*. [Estimates for coefficients in Jacobi series for functions with limited regularity by fractional calculus.](https://doi.org/10.1007/s10444-024-10159-y) **Advances in Computational Mathematics**,  50, 68 (2024). 
 
 [12] Duan Beiping. Energy-stable and mesh-preserving parametric FEM for mean curvature flow of surfaces. Accepted by **SIAM Journal on Scientific Computing**.
 
