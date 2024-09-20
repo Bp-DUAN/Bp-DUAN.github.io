@@ -57,11 +57,3 @@ redirect_from:
 
 ## Foundings
 High-order time parametric finite element methods for a class of curvature flows. NSFC, 300,000 RMB.
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
