@@ -21,10 +21,10 @@ repository               : "Bp-DUAN/Bp-DUAN.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "My_Photo.png"
   name             : "Beiping Duan"
 #  pronouns         : "Dr. "  
- # bio              : "Short biography for the left-hand sidebar"
+#  bio              : "Assistant at Shenzhen-MSU-BIT University"
   location         : "Shenzhen"
   employer         : "Shenzhen MSU-BIT Univerisity"
 #  uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -215,7 +215,7 @@ collections:
 #    output: false
 #    permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
 #  portfolio:
 #    output: false
