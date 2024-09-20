@@ -22,9 +22,10 @@ repository               : "Bp-DUAN/Bp-DUAN.github.io"
 author:
   # Biographic information
   avatar           : "My_Photo.png"
-  name             : "Beiping Duan(段北平)"
+  name             : "Beiping Duan (段北平)"
 #  pronouns         : "Dr. "  
 #  bio              : "Assistant at Shenzhen-MSU-BIT University"
+
   location         : "Shenzhen, China"
   employer         : "Shenzhen MSU-BIT Univerisity"
 #  uri              : # URL
