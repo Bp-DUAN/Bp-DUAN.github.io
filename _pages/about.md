@@ -40,11 +40,11 @@ redirect_from:
 
 [4] Duan Beiping, Lazarov Raytcho*, Pasciak Joseph. [Numerical Approximation of Fractional Powers of Elliptic Operators.](https://doi.org/10.1093/imanum/drz013) **IMA Journal of Numerical Analysis**, 40(3), 1746–1771(2020).
 
-[5] Duan Beiping*, Zhang Zhimin. [A rational approximation scheme for computing Mittag-Leffler function with discrete elliptic operator as input.](https://link.springer.com/article/10.1007/s10915-021-01495-y) **Journal Scientific Computing**, 87 (2021)
+[5] Duan Beiping*, Zhang Zhimin. [A rational approximation scheme for computing Mittag-Leffler function with discrete elliptic operator as input.](https://link.springer.com/article/10.1007/s10915-021-01495-y) **Journal of Scientific Computing**, 87 (2021)
 
 [6] Duan Beiping, Li Buyang*, Zhang Zhimin. [High-order fully discrete energy diminishing evolving surface finite element methods for a class of geometric curvature flows.](https://link.springer.com/article/10.1007/s10915-021-01495-y) **Annals of Applied Mathematics**, 37(4): 405-436(2021).
 
-[7] Duan Beiping, Li Buyang, Yang Zongze*. [An energy diminishing arbitrary Lagrangian-Eulerian finite element method for two-phase Navier-Stokes flow.](https://doi.org/10.1016/j.jcp.2022.111215) **Journal Computational Physics**, 2022.
+[7] Duan Beiping, Li Buyang, Yang Zongze*. [An energy diminishing arbitrary Lagrangian-Eulerian finite element method for two-phase Navier-Stokes flow.](https://doi.org/10.1016/j.jcp.2022.111215) **Journal of Computational Physics**, 2022.
 
 [8] Duan Beiping*. [Padé-parametric FEM approximation for fractional powers of elliptic operators on manifolds.](https://doi.org/10.1093/imanum/drac050) **IMA Journal of Numerical Analysis**, 43(5): 2633-2664(2023).
 
