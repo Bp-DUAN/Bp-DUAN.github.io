@@ -256,7 +256,7 @@ defaults:
 #      share: true
 #      comments: true
   # _publications
-  - scope:
+ # - scope:
  #     path: ""
  #     type: publications
  #   values:
