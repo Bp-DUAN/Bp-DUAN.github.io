@@ -4,15 +4,18 @@ title: "Animations"
 ---
 
 # Animations for surface diffusion
-<h3> An H-shaped Box </h3>
+
 <video style="width: 100%; max-width: 600px;" controls>
   <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/SDF_H_cross.mp4" type="video/mp4">
 </video>
 
-<h3> A 6-1-1 Box </h3>
+
 <video style="width: 100%; max-width: 600px;" controls>
   <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/SDF_Box_1_1_6.mp4" type="video/mp4">
 </video>
+<h3> An H-shaped Box </h3>
+
+<h3> A 6-1-1 Box </h3>
 
 <style>
 body {
@@ -27,6 +30,7 @@ h3 {
 }
 </style>
 
+### 
 <p> In the simulations above, the Duan-Li scheme[SISC 2024] was used. </p>
 
 # Animations for mean curvature flow
