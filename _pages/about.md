@@ -26,7 +26,7 @@ redirect_from:
 
 ●  2019. 9 - 2021.8: Postdoc in Beijing Computational Science Research Center, Beijing & Shenzhen JL Computational Science and Applied Research Institute, Shenzhen. Supervisor: Prof. ZHANG Zhimin;
 
-●  2021. 9 - now: Assistant, MSU-BIT-SMBU Joint Research Center of Computational Mathematics, Shenzhen MSU-BIT University.
+●  2021. 9 - now: MSU-BIT-SMBU Joint Research Center of Computational Mathematics, Shenzhen MSU-BIT University.
 
 
 
