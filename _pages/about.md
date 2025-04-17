@@ -56,6 +56,6 @@ redirect_from:
 
 [12] Duan Beiping. [Energy-stable and mesh-preserving parametric FEM for mean curvature flow of surfaces.](https://epubs.siam.org/eprint/3JQYDS82STXQH8ZMJUXH/full) **SIAM Journal on Scientific Computing**, 46(6): A3873-A3896.
 
-[13] Duan Beiping. Mesh-preserving and energy-stable parametric FEM for geometric flows of surfaces. **SIAM Journal on Numerical Analysis**, 2025, 63(2): 619-640..
+[13] Duan Beiping. [Mesh-preserving and energy-stable parametric FEM for geometric flows of surfaces.](https://epubs.siam.org/doi/abs/10.1137/24M1671542?journalCode=sjnaam) **SIAM Journal on Numerical Analysis**, 2025, 63(2): 619-640..
 ## Foundings
 High-order time parametric finite element methods for a class of curvature flows. NSFC, 300,000 RMB.
