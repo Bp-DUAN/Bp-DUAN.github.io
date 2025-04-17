@@ -54,8 +54,8 @@ redirect_from:
 
 [11] Liu Guidong, Liu Wenjie, Duan Beiping*. [Estimates for coefficients in Jacobi series for functions with limited regularity by fractional calculus.](https://doi.org/10.1007/s10444-024-10159-y) **Advances in Computational Mathematics**,  50, 68 (2024). 
 
-[12] Duan Beiping. [Energy-stable and mesh-preserving parametric FEM for mean curvature flow of surfaces.](https://epubs.siam.org/eprint/3JQYDS82STXQH8ZMJUXH/full) **SIAM Journal on Scientific Computing**, 46(6):A3873-A3896.
+[12] Duan Beiping. [Energy-stable and mesh-preserving parametric FEM for mean curvature flow of surfaces.](https://epubs.siam.org/eprint/3JQYDS82STXQH8ZMJUXH/full) **SIAM Journal on Scientific Computing**, 46(6): A3873-A3896.
 
-[13] Duan Beiping. Mesh-preserving and energy-stable parametric FEM for geometric flows of surfaces. **SIAM Journal on Numerical Analysis**, accepted.
+[13] Duan Beiping. Mesh-preserving and energy-stable parametric FEM for geometric flows of surfaces. **SIAM Journal on Numerical Analysis**, 2025, 63(2): 619-640..
 ## Foundings
 High-order time parametric finite element methods for a class of curvature flows. NSFC, 300,000 RMB.
