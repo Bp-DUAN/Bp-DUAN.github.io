@@ -60,9 +60,9 @@ redirect_from:
 
 [14] Duan Beiping, Yang Zongze. [A Second-order Structure-preserving Parametric FEM for Surface Evolution.](https://arxiv.org/abs/2606.08293) **ArXiv preprint**.
 
-[15] Duan Beiping. [A revisit to DeTurck method on curve shortening flow with optimal error analysis](https://arxiv.org/abs/2607.04105) **ArXiv preprint**.
+[15] Duan Beiping. [A revisit to DeTurck method on curve shortening flow with optimal error analysis.](https://arxiv.org/abs/2607.04105) **ArXiv preprint**.
 
-[16] Duan Beiping. [Surface evolution under conformal map and linearized energy-stable parametric finite element methods](https://arxiv.org/abs/2611.15323) **ArXiv preprint**.
+[16] Duan Beiping. [Surface evolution under conformal map and linearized energy-stable parametric finite element methods.](https://arxiv.org/abs/2611.15323) **ArXiv preprint**.
 
 
 ## Foundings
