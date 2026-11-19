@@ -30,7 +30,7 @@ title: "Animations"
   <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/Torrus_1_07.mp4" type="video/mp4">
 </video>
 
-<p>  Animations for Examples 5.5 and 5.6 in [12]. </p>、
+<p>  Animations for Examples 5.5 and 5.6 in [12]. </p>
 
 # Solid-state dewetting film
 
