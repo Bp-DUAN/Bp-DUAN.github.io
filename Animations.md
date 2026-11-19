@@ -34,12 +34,12 @@ title: "Animations"
 
 # Solid-state dewetting film
 
-<video style="width: 100%; max-width: 600px;" controls>
+<video style="width: 100%; max-width: 1200px;" controls>
   <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/Box_alpha_13.mp4" type="video/mp4">
 </video>
 
 
-<video style="width: 100%; max-width: 600px;" controls>
+<video style="width: 100%; max-width: 1200px;" controls>
   <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/Box_alpha_23.mp4" type="video/mp4">
 </video>
 
