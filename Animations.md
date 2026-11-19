@@ -43,3 +43,4 @@ title: "Animations"
   <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/Box_alpha_23.mp4" type="video/mp4">
 </video>
 
+<p> Solid-state dewetting model under conformal map [16] </p>
