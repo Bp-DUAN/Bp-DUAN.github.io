@@ -32,7 +32,7 @@ title: "Animations"
 <p> From left to right, the initial shapes are an H-shaped box and a 6-1-1 box. In the simulations above, the Duan-Li scheme[SISC 2024] was used. </p>
 
 <video style="width: 100%; max-width: 1200px;" controls>
-  <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/SDF_Box_1_1_16.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/Bp-DUAN/Animation_GFs/main/Box_1_1_16.mp4" type="video/mp4">
 </video>
 
 <p> The initial surface is a 16-1-1 box, Example 5.5 in [16].  </p>
